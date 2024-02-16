@@ -5,12 +5,12 @@
 }
 
 body {
-  overflow-x: hidden!important;
+  overflow-x: hidden !important;
   background: #ecf3f3;
 }
 
 .body {
-  overflow: hidden!important;
+  overflow: hidden !important;
   margin: 1%;
 }
 
@@ -522,6 +522,17 @@ span:nth-child(10) {
   border-radius: 6px 6px 0px 0px;
   opacity: 0.91;
   background-image: url("images/puzzleg.jpg");
+}
+
+.cards .card-image6 {
+  height: 300px;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 6px 6px 0px 0px;
+  opacity: 0.91;
+  background-image: url("images/gotcha.jpg");
 }
 
 .bottom {
